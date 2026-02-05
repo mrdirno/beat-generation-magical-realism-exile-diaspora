@@ -1,0 +1,160 @@
+{
+  "book_id": "beat_generation_magical_realism_exile_diaspora",
+  "title": "The Exile's Dictionary of Missing Sounds",
+  "tagline": "Two sonic archaeologists hunt for the lost foundational hum of a vanished homeland.",
+  "target_words": 70000,
+  "actual_words": 69160,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Sonic Archaeology",
+    "Haunted Geography",
+    "Diasporic Melancholy",
+    "The Politics of Silence"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Liar River",
+      "words": 2880
+    },
+    {
+      "ch": 2,
+      "title": "The Snail's Archive",
+      "words": 2880
+    },
+    {
+      "ch": 3,
+      "title": "Below the Metró",
+      "words": 2880
+    },
+    {
+      "ch": 4,
+      "title": "The Hinge of History",
+      "words": 2880
+    },
+    {
+      "ch": 5,
+      "title": "Milosh's Map",
+      "words": 2880
+    },
+    {
+      "ch": 6,
+      "title": "The Café of Ghosts",
+      "words": 2880
+    },
+    {
+      "ch": 7,
+      "title": "Echoes of Petőfi",
+      "words": 2880
+    },
+    {
+      "ch": 8,
+      "title": "The Butcher's Shop Room",
+      "words": 2880
+    },
+    {
+      "ch": 9,
+      "title": "A Silence in Three Parts",
+      "words": 2880
+    },
+    {
+      "ch": 10,
+      "title": "The Foundation's Drip",
+      "words": 2880
+    },
+    {
+      "ch": 11,
+      "title": "Tram 1956",
+      "words": 2880
+    },
+    {
+      "ch": 12,
+      "title": "The Walnut Dresser Laugh",
+      "words": 2880
+    },
+    {
+      "ch": 13,
+      "title": "István's Saxophone",
+      "words": 2880
+    },
+    {
+      "ch": 14,
+      "title": "The Vortex by the Bridge",
+      "words": 2880
+    },
+    {
+      "ch": 15,
+      "title": "Anya's Scripture",
+      "words": 2880
+    },
+    {
+      "ch": 16,
+      "title": "Leo's Sip",
+      "words": 2880
+    },
+    {
+      "ch": 17,
+      "title": "The Meadow in the Shell",
+      "words": 2880
+    },
+    {
+      "ch": 18,
+      "title": "Chasing the Hum",
+      "words": 2880
+    },
+    {
+      "ch": 19,
+      "title": "The Seventh District",
+      "words": 2880
+    },
+    {
+      "ch": 20,
+      "title": "Neon Despair",
+      "words": 2880
+    },
+    {
+      "ch": 21,
+      "title": "The Collector and the Dowser",
+      "words": 2880
+    },
+    {
+      "ch": 22,
+      "title": "A Country Unmapped",
+      "words": 2880
+    },
+    {
+      "ch": 23,
+      "title": "The Foundational Note",
+      "words": 2880
+    },
+    {
+      "ch": 24,
+      "title": "The Dictionary Complete",
+      "words": 2920
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character 'listens' to a mundane object (a brick, a spoon, a coat) and hears the trapped echo of a historical event.",
+      "Create a profile for a new client who hires Leo and Anya to find a 'missing sound' from their own diasporic past.",
+      "Describe the sonic landscape of a place that is being actively silenced—gentrifying, bombed, or culturally erased.",
+      "Write from the perspective of István, the café owner, as he observes the duo and the other 'ghosts' that visit his establishment."
+    ],
+    "technical": [
+      "Design a speculative interface for 'sonic archaeology'—a device or software for visualizing and cataloging trapped sounds.",
+      "Outline a 'Field Guide to Urban Palimpsests' that details methods for non-magical historical eavesdropping in layered cities."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "William S. Burroughs (cut-up reality, sonic warfare)",
+      "Gabriel García Márquez (layered time, political magic)",
+      "Eva Hoffman (diasporic memory, lost language)",
+      "R. Murray Schafer (soundscape ecology, acoustic design)"
+    ]
+  },
+  "cover_prompt": "Two sonic archaeologists, a man and a woman, kneel in a windswept desert of cracked earth and ancient, rusted machinery, their hands pressed to the ground as if listening, with ethereal, ghostly waveforms of golden sound rising from the soil like heat haze, [Detailed Scene & Context: within a haunted geography of forgotten infrastructure under a bruised twilight sky, where spectral echoes of a bustling city market and children’s laughter flicker faintly within the rising sonic forms], [Artistic Style & Medium: in the atmospheric style of Zdzisław Beksiński meets Remedios Varo, a surreal and melancholic painting with textural impasto and precise, eerie detail, blending organic decay with metaphysical geometry], [Composition & Camera: book cover framing, a centered and intimate low-angle shot that looks up at the archaeologists from the earth, making the rising soundwaves monumental, with a dramatic, slightly tilted horizon], [Lighting & Color Palette: dramatic chiaroscuro lighting from a single, low source, casting long shadows and highlighting the textured ground, with a color palette of desaturated umbers, dusty ochres, and bruised violets contrasted with the luminous, metallic gold of the sound energy], [Quality & Technical Enforcers: masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
