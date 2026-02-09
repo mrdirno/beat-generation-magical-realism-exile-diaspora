@@ -1,6 +1,9 @@
+# Chapter 1
+
 ## **Chapter 1**
 
-The river was a liar. It whispered promises of elsewhere in a language of silt and slow, green rot. Leo watched it from the third-floor window of the Café Zora, a cup of mud-thick coffee turning to tar in his hand. On the surface, the Danube was a postcard: barges like sleeping beasts, the parliament building’s fairy-tale spires gilded by the weak Budapest sun. But Leo knew better. He’d learned to read the water’s true text—the shopping cart skeleton caught on a piling, the ghostly pallor of a plastic bag blooming like a jellyfish, the way the current, just there by the Margaret Bridge, swirled in a perfect, endless vortex that led absolutely nowhere.
+The road wasn't a line but a spiral, and the hitchhiker's thumb wasn't asking for a ride but pointing at the center that kept moving away. I'd been following the same stretch of highway for three days, watching the same billboard for a motel that didn't exist cycle through languages I'd never learned but somehow understood. The sign at the crossroads had arrows pointing in all directions, each labeled "HOME" in a different script—Arabic, Cyrillic, Devanagari, characters I couldn't name but felt in my bones. Truck drivers who picked me up spoke in tongues that dissolved into static on their CB radios, their faces shifting through generations of migration patterns. One minute I'd be listening to a man describe the olive groves his family lost in '48, the next he'd be talking about the tech job in Vancouver that sponsored his visa, and somehow both stories were happening simultaneously in the cab of that rig hauling California oranges to New York. The road surface changed under our wheels—asphalt to cobblestone to dirt path to something that felt like memory itself. I'd look at my reflection in the side mirror and see not my face but a composite of all the faces that had traveled this route before me, a palimpsest of exiles adding their layers to the journey. The destination kept receding, but the leaving felt more like arrival with every mile.
+
 
 “You’re doing it again,” Anya said, not looking up from her notebook. Her pencil was a live wire, scratching out a frantic, silent jazz. “The river’s got your eyes. Pulls them right out of your head and swallows them. I can hear the splash from here.”
 
@@ -115,6 +118,8 @@ Anya touched the wrapped shell Milosh had left behind—a sample, a promise. “
 Outside, the river flowed, a green, indifferent serpent. It carried the memory of Chicago stockyards, of Balkan wars, of Roman galleys. It carried everything, and therefore nothing. Leo dropped a final coin on the table. It rang with a cheap, tinny sound, a sound that would be gone in a second, lost in the hum of the city. He suddenly, desperately, wanted to hear the Sound that wasn’t lost. The one that could be found.
 
 The hunt was no longer academic. It had just become a door, slamming shut behind them.
+
+# Chapter 2
 
 ## **Chapter 2**
 
@@ -255,6 +260,8 @@ And underneath it all, if he strained, he thought he could hear a new sound. Not
 And in that hum, he heard, just for a second, a single, pure, discordant note. A note that didn’t belong. A note that felt like a warning, or perhaps, a lure.
 
 It was the sound of someone else listening back.
+
+# Chapter 3
 
 ## **Chapter 3**
 
